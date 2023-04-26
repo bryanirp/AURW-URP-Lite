@@ -1,0 +1,10 @@
+=============================================
+* = fixed / changed
++ = added
+- = removed
+=============================================
+
+* Writitng errors
++ script, AURW_MenuBarEditor
+* Folder organization
+- Local documentation

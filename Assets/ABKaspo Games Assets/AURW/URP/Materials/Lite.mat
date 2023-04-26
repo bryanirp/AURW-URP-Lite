@@ -26,8 +26,8 @@ Material:
   m_InvalidKeywords:
   - _WEBGL_SUPPORT
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -109,7 +109,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
-    - _Depth: 1
+    - _Depth: 0.03
     - _Depth_Strength: 1
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1

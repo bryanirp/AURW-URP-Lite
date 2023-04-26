@@ -3936,7 +3936,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "71f1cd572e3f44dabae7c2ca63329d00",
-    "m_Name": "Albedp",
+    "m_Name": "Albedo",
     "m_ChildObjectList": [
         {
             "m_Id": "5c1387c28095428b8b2739278d358b07"
