@@ -1,9 +1,7 @@
 {
     "name": "AURW",
     "rootNamespace": "",
-    "references": [
-        "Unity.TextMeshPro"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
